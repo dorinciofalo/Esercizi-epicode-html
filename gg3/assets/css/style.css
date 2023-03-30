@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,500;1,600&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#blu{
+    background-color: rgba(15, 84, 145, 0.683);
+    padding: 30px;
+    text-align: center;
+    border-bottom: 7px solid rgb(8, 124, 174);
+}
+#titolo{
+    color: white;
+    margin-bottom: 10px;
+
+}
+#titolo2{
+    background-color: white;
+    margin: 0 auto;
+    width: 110px;
+    margin-bottom: 15px;
+    color:  rgb(8, 124, 174);;
+}
+.centralo{
+    margin: 0 auto;
+    text-align: center;
+}
+.blu{
+    margin-top: 10px;
+    color:  rgb(8, 124, 174);
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+
+#image{
+  
+    width: 90%;
+    border: 1px solid grey;
+    padding: 3px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+a{
+    color: red;
+}
+#cit{
+    margin-top: 10px;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+.blue {
+    color:  rgb(8, 124, 174);;
+}
+.evidenziatore  {
+    background-color: rgb(8, 124, 174); ;
+    color: white;
+}
+.trattini{
+    border-bottom: 1px dotted black;
+    padding: 20px;
+    
+    
+}
+#spazi{
+    margin-top: 20px;
+}
+#margine{
+    margin-top: 20px;
+}
+#footer{
+    background-color: grey;
+    text-align: center;
+}
+#giallo{
+    color: yellow;
+
+}
+#centra{
+    text-align: center;
+}
